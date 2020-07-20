@@ -1,4 +1,9 @@
 # Team : all_kavs
+
+Winning project at Hack-36 organised by NIT Allahabad.
+
+![winning_image](./20200216_194842.jpg)
+
 # Idea name : ZEMOTACQY
 A platform that would help doctors in assessing the growth and improvement of their patients suffering from mental disorders like ADHD by running a set of research-backed cognitive tests, rendering meaningful statistics and data.
 ## IDEA DESCRIPTION --
